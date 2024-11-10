@@ -1,2 +1,2 @@
-cmd taskkill /f /im explorer.exe
+cmd /k taskkill /f /im explorer.exe
 start explorer.exe
