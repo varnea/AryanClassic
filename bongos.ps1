@@ -1,8 +1,1 @@
-
-cmd /k echo Jaya
-cmd /k echo was
-cmd /k echo here
-cmd /k echo test1
-cmd /k echo test2
-cmd /k echo test3
-pause
+echo Jaya && echo was && echo here && echo test1 && echo test2 && echo test3 && pause
